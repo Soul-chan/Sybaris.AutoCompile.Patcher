@@ -43,6 +43,7 @@ AutoCompile用にソースを公開して下さるプラグイン製作者様が
 GitHubでのライセンスは一番緩そうな[MIT](https://github.com/Soul-chan/Sybaris.AutoCompile.Patcher/blob/master/LICENSE)ライセンスにしていますが、  
 基本的なスタンスはこれまでの↓から変更はありません。  
 改変、転載、ご自由にどうぞ。  
+プルリクエストも大歓迎です。  
 他のUnity製アプリケーションで使う場合、適宜設定したコンフィグファイルと共に配布して頂いて構いません。  
 
     ※MODはKISSサポート対象外です。
